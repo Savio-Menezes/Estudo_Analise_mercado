@@ -1,6 +1,8 @@
 🛒 Dashboard Interativo de Vendas do Supermercado
 Este projeto cria um dashboard interativo utilizando Python, Streamlit e Plotly para analisar os dados de vendas de um supermercado. Ele exibe gráficos para:
 
+![Aplicação](https://github.com/user-attachments/assets/fc7a01e3-33b5-48de-91ae-19f1bf4f4e52)
+
 Faturamento diário por unidade.
 Produtos mais vendidos.
 Contribuição por filial.
